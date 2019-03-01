@@ -55,7 +55,6 @@ Say your team members have made contributions to the codebase and have pushed th
 
 ```
 git pull <remote_name> <branchsdaddddad_name>
-```
 
 If you have used `git push origin master` or `git pull origin master`, this refers to pushing/pulling changes from a remote repository named *origin* into the *master* branch. 
 
